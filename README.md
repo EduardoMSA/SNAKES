@@ -39,12 +39,12 @@ Instructions
 * Introduce the number of fruits at the beginning.
 
 * Keys:
-  - UP: Move the snake up
-  - LEFT: Move the snake left
-  - DOWN: Move the snake down
-  - RIGHT: Move the snake right
-  - Press ESC to end the game.
-  - Press R to restart the game.
+  - UP:     Move the snake up
+  - LEFT:   Move the snake left
+  - DOWN:   Move the snake down
+  - RIGHT:  Move the snake right
+  - ESC:    exit the game.
+  - R:      restart the game.
 
 * Eat the food and avoid the other snake.
 
