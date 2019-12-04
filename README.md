@@ -1,9 +1,9 @@
 SNAKES
 =========================
 
-Eduardo Méndez
+Eduardo Méndez Santa Ana
 
-Juan Dámaso
+A01632947
 
 Final project for Advanced Programming Course
 
