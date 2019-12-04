@@ -23,14 +23,14 @@ Requirements
 
 To compile
 ----------------------
-Make build
+- Make build
 
 
 To run
 --------------------
-./SNAKES
-Make
-Make run
+- ./SNAKES
+- Make
+- Make run
 
 Instructions
 -------------
