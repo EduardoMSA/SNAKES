@@ -2,9 +2,11 @@ SNAKES
 =========================
 
 Eduardo Méndez
+
 Juan Dámaso
 
 Final project for Advanced Programming Course
+
 12 - 03 - 2019
 
 Professor Obed Nehemías Muñóz
