@@ -43,8 +43,8 @@ Instructions
   - LEFT:   Move the snake left
   - DOWN:   Move the snake down
   - RIGHT:  Move the snake right
-  - ESC:    exit the game.
-  - R:      restart the game.
+  - ESC:    Exit the game.
+  - R:      Restart the game.
 
 * Eat the food and avoid the other snake.
 
