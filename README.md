@@ -14,7 +14,7 @@ Professor Obed Nehemías Muñóz
 
 ----------------------
 
-[Preview]!(https://media.giphy.com/media/cLYeyTzBhrC1N1Q2i6/giphy.gif)
+![Preview](Preview.gif)
 
 Implementation of the video game [SNAKES](http://slither.io/). This version is a [PVE](https://en.wikipedia.org/wiki/Player_versus_environment) game. The objective is to collect the maximum number of food before the enemy does. You win if you collect more than the enemy, you lose if you exit the game arena or if you get out of lives by getting hitted by the enemy.
 
